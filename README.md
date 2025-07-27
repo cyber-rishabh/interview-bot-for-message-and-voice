@@ -1,4 +1,3 @@
-# interview-bot-for-message-and-voice
 # Interview Bot for Message and Voice
 
 An AI-powered interview bot that conducts candidate interviews over **WhatsApp messages** and **phone calls**, intelligently analyzing responses using **LLMs** and tracking interview progress in real-time.
